@@ -20,6 +20,7 @@
     <string-array name="wallpapers">
         <item>blu3_girl</item>
         <item>gr33n_girl</item>
+        <item>Nice_Blue_Eyes</item>
         <item>lexicon</item>
         <item>s3xcandy_1</item>
         <item>s3xcandy_2</item>
@@ -28,10 +29,15 @@
         <item>th3ory_02</item>
         <item>th3ory_03</item>
 		<item>xtfgx</item>
+		<item>BlackCh3rry</item>
+        <item>Blu3Bubbl3Gum</item>
+        <item>Chocolat3Rain</item>
+		<item>PinkPa55sion</item>
     </string-array>
     <string-array name="info">
         <item>Blue Girl</item>
         <item>Gr33n Girl</item>
+        <item>Nice Blue Eyes</item>
         <item>Lexicon</item>
         <item>S3xCandy Non-Scroll</item>
         <item>S3xCandy Scroll 1</item>
@@ -40,6 +46,10 @@
         <item>Th3oryROM 2</item>
         <item>Th3oryROM 3</item>
 		<item>xTGFx</item>
+		<item>BlackCh3rry</item>
+        <item>Blu3Bubbl3Gum</item>
+        <item>Chocolat3Rain</item>
+		<item>PinkPa55sion</item>
     </string-array>
 </resources>
 
